@@ -1,1 +1,1 @@
-I like building ML products - code, coffee, repeat!
+I like building ML products.
