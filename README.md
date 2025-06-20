@@ -1,1 +1,1 @@
-I like building ML products.
+I love building ML stuff fast—quick prototypes, big impact.
